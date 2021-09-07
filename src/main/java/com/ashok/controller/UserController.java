@@ -25,4 +25,6 @@ public class UserController {
 		return "display";
 	}
 
+
+System.out.println("jenkins update");
 }
